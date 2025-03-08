@@ -1,0 +1,14 @@
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\obj\Debug\CSKTLT.csprojAssemblyReference.cache
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\obj\Debug\CSKTLT.csproj.CoreCompileInputs.cache
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\bin\Debug\CSKTLT.exe.config
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\bin\Debug\CSKTLT.exe
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\bin\Debug\CSKTLT.pdb
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\obj\Debug\CSKTLT.exe
+C:\Users\chutu\OneDrive\Documents\CSKTLT\CSKTLT\obj\Debug\CSKTLT.pdb
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\bin\Debug\CSKTLT.exe.config
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\bin\Debug\CSKTLT.exe
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\bin\Debug\CSKTLT.pdb
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\obj\Debug\CSKTLT.csprojAssemblyReference.cache
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\obj\Debug\CSKTLT.csproj.CoreCompileInputs.cache
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\obj\Debug\CSKTLT.exe
+C:\Users\chutu\OneDrive\Documents\2022-2023\C#\CSKTLT\obj\Debug\CSKTLT.pdb
